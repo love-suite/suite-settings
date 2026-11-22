@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/love-suite/suite-bar",
       "state" : {
-        "revision" : "08e4bbff1152e4455bfeb83b6b6d93cb23ab24c9",
-        "version" : "27.1.0-dev.1"
+        "branch" : "feat/launcher/core",
+        "revision" : "33903f7fac93d5b57dd27bf95bace6f5e387992f"
       }
     },
     {

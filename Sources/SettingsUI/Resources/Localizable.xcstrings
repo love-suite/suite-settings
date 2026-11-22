@@ -681,6 +681,16 @@
         }
       }
     },
+    "Show Launcher": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher Launcher"
+          }
+        }
+      }
+    },
     "Suite Settings": {
       "localizations": {
         "fr": {

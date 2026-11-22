@@ -33,6 +33,7 @@ struct BarSettingsView: View {
                 }
             }
             Section(UIL("Bar")) {
+                Toggle(UIL("Show Launcher"), isOn: bar(\.showsLauncher))
                 Slider(value: bar(\.iconSize), in: BarSettings.iconSizes, step: 8) {
                     Text(UIL("Size"))
                 } minimumValueLabel: {

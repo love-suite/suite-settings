@@ -16,7 +16,8 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/\(organization)/suite-core", .upToNextMinor(from: "27.1.0-dev.1")),
         .package(url: "https://github.com/\(organization)/suite-explorer", .upToNextMinor(from: "27.1.0-dev.1")),
-        .package(url: "https://github.com/\(organization)/suite-bar", .upToNextMinor(from: "27.1.0-dev.1")),
+        // Until feat/launcher/core is merged in suite-bar: its showsLauncher setting, from that branch.
+        .package(url: "https://github.com/\(organization)/suite-bar", branch: "feat/launcher/core"),
         .package(url: "https://github.com/\(organization)/suite-clipboard", .upToNextMinor(from: "27.1.0-dev.1")),
         .package(url: "https://github.com/\(organization)/suite-files", .upToNextMinor(from: "27.1.0-dev.1")),
         .package(url: "https://github.com/\(organization)/suite-desktop", .upToNextMinor(from: "27.1.0-dev.1")),
