@@ -11,6 +11,26 @@
         }
       }
     },
+    "%@, instead of %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@, à la place de %@"
+          }
+        }
+      }
+    },
+    "%d changed": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%d modifiés"
+          }
+        }
+      }
+    },
     "%d items": {
       "localizations": {
         "fr": {
@@ -91,6 +111,16 @@
         }
       }
     },
+    "Action": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Action"
+          }
+        }
+      }
+    },
     "Add": {
       "localizations": {
         "fr": {
@@ -111,12 +141,32 @@
         }
       }
     },
+    "Add at least one app.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajoutez au moins une app."
+          }
+        }
+      }
+    },
     "Add folders from their right-click menu, or drop them among the Favorites in the sidebar.": {
       "localizations": {
         "fr": {
           "stringUnit": {
             "state": "translated",
             "value": "Ajoutez des dossiers depuis leur menu contextuel, ou déposez-les parmi les Favoris de la barre latérale."
+          }
+        }
+      }
+    },
+    "Add Shortcut": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajouter un raccourci"
           }
         }
       }
@@ -201,6 +251,16 @@
         }
       }
     },
+    "Also list menu items that have no shortcut, to give them one": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher aussi les éléments de menu sans raccourci, pour leur en donner un"
+          }
+        }
+      }
+    },
     "Also with the eye button in Explorer windows, or Cmd+Shift+period.": {
       "localizations": {
         "fr": {
@@ -241,12 +301,72 @@
         }
       }
     },
+    "Any": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Indifférent"
+          }
+        }
+      }
+    },
+    "Any window": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "N'importe quelle fenêtre"
+          }
+        }
+      }
+    },
+    "App": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App"
+          }
+        }
+      }
+    },
+    "Applies": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "S'applique"
+          }
+        }
+      }
+    },
     "Applies while the desktop is sorted by type.": {
       "localizations": {
         "fr": {
           "stringUnit": {
             "state": "translated",
             "value": "S'applique quand le bureau est trié par type."
+          }
+        }
+      }
+    },
+    "Apps": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apps"
+          }
+        }
+      }
+    },
+    "Apps appear here as you use them.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les apps apparaissent ici à mesure que vous les utilisez."
           }
         }
       }
@@ -381,6 +501,16 @@
         }
       }
     },
+    "Back to %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revenir à %@"
+          }
+        }
+      }
+    },
     "Back to the width new Explorer windows open at: %d points.": {
       "localizations": {
         "fr": {
@@ -417,6 +547,76 @@
           "stringUnit": {
             "state": "translated",
             "value": "Bar remplace le Dock système, masqué avec l'icône du Finder, dont les réglages reviennent avec le Dock système. Affiché quand Explorer gère les fichiers (Général)."
+          }
+        }
+      }
+    },
+    "Before you save": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avant d'enregistrer"
+          }
+        }
+      }
+    },
+    "Bindings needs Accessibility access to read the apps' menus and to change their shortcuts.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bindings a besoin de l'accès Accessibilité pour lire les menus des apps et changer leurs raccourcis."
+          }
+        }
+      }
+    },
+    "Bindings needs Accessibility access to see the keys you press. Until then, no shortcut of yours works and every key does what it always did.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bindings a besoin de l'accès Accessibilité pour voir les touches sur lesquelles vous appuyez. D'ici là, aucun de vos raccourcis ne fonctionne et chaque touche fait ce qu'elle a toujours fait."
+          }
+        }
+      }
+    },
+    "Bindings runs your shortcuts in every app, in some apps, or in a context: while typing, on Explorer's desktop, in a window. It can press other keys, open apps and folders, run shortcuts and commands, or choose menu items.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bindings exécute vos raccourcis dans toutes les apps, dans certaines, ou dans un contexte : pendant la saisie, sur le bureau d'Explorer, dans une fenêtre. Il peut appuyer sur d'autres touches, ouvrir des apps et des dossiers, exécuter des raccourcis et des commandes, ou choisir des éléments de menu."
+          }
+        }
+      }
+    },
+    "Bindings sees the keys you press, and lets through those no rule uses.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bindings voit les touches sur lesquelles vous appuyez et laisse passer celles qu'aucune règle n'utilise."
+          }
+        }
+      }
+    },
+    "bindings.json, which can be edited by hand as Karabiner's file can": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "bindings.json, modifiable à la main comme le fichier de Karabiner"
+          }
+        }
+      }
+    },
+    "Browse Shortcuts": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parcourir les raccourcis"
           }
         }
       }
@@ -481,6 +681,26 @@
         }
       }
     },
+    "Choose %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choisir %@"
+          }
+        }
+      }
+    },
+    "Choose a menu item": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choisir un élément de menu"
+          }
+        }
+      }
+    },
     "Choose an App": {
       "localizations": {
         "fr": {
@@ -491,12 +711,52 @@
         }
       }
     },
+    "Choose another shortcut to press.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choisissez un autre raccourci à envoyer."
+          }
+        }
+      }
+    },
+    "Choose at least one condition.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choisissez au moins une condition."
+          }
+        }
+      }
+    },
     "Clear History": {
       "localizations": {
         "fr": {
           "stringUnit": {
             "state": "translated",
             "value": "Effacer l'historique"
+          }
+        }
+      }
+    },
+    "Click, then press the new shortcut. Escape stops.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cliquez, puis appuyez sur le nouveau raccourci. Échap arrête."
+          }
+        }
+      }
+    },
+    "Click, then press the shortcut. Escape stops.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cliquez, puis appuyez sur le raccourci. Échap arrête."
           }
         }
       }
@@ -537,6 +797,16 @@
           "stringUnit": {
             "state": "translated",
             "value": "Stockage cloud : Google Drive, OneDrive et autres"
+          }
+        }
+      }
+    },
+    "Command": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Commande"
           }
         }
       }
@@ -591,6 +861,26 @@
         }
       }
     },
+    "Do nothing": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ne rien faire"
+          }
+        }
+      }
+    },
+    "Does": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fait"
+          }
+        }
+      }
+    },
     "Drag a button out of the bar to hide it": {
       "localizations": {
         "fr": {
@@ -627,6 +917,16 @@
           "stringUnit": {
             "state": "translated",
             "value": "Chaque Mac conserve sa propre copie de l'historique dans iCloud Drive › Explorer › Clipboard › %@. Après une réinstallation, ou sur un nouveau Mac, activer ceci restaure l'historique."
+          }
+        }
+      }
+    },
+    "Edit": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modifier"
           }
         }
       }
@@ -677,6 +977,726 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tous les boutons dans la barre, dans l'ordre habituel, icônes seulement."
+          }
+        }
+      }
+    },
+    "Everywhere": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Partout"
+          }
+        }
+      }
+    },
+    "Everywhere except in %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Partout sauf dans %@"
+          }
+        }
+      }
+    },
+    "Except in": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sauf dans"
+          }
+        }
+      }
+    },
+    "File › New Window": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fichier › Nouvelle fenêtre"
+          }
+        }
+      }
+    },
+    "Folder": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dossier"
+          }
+        }
+      }
+    },
+    "Held down, it repeats as the other shortcut would.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maintenu, il se répète comme le ferait l'autre raccourci."
+          }
+        }
+      }
+    },
+    "Holding ⌘V opens Clipboard's history: where this rule applies, ⌘V is this rule's instead.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maintenir ⌘V ouvre l'historique de Clipboard : là où cette règle s'applique, ⌘V est à elle."
+          }
+        }
+      }
+    },
+    "In": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans"
+          }
+        }
+      }
+    },
+    "In %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans %@"
+          }
+        }
+      }
+    },
+    "in %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dans %@"
+          }
+        }
+      }
+    },
+    "In a Context": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans un contexte"
+          }
+        }
+      }
+    },
+    "In a folder window": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans une fenêtre de dossier"
+          }
+        }
+      }
+    },
+    "In another window": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans une autre fenêtre"
+          }
+        }
+      }
+    },
+    "In Apps": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans des apps"
+          }
+        }
+      }
+    },
+    "In Explorer": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans Explorer"
+          }
+        }
+      }
+    },
+    "in Explorer windows": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dans les fenêtres d'Explorer"
+          }
+        }
+      }
+    },
+    "in Explorer's other windows": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dans les autres fenêtres d'Explorer"
+          }
+        }
+      }
+    },
+    "in windows titled “%@”": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dans les fenêtres dont le titre contient « %@ »"
+          }
+        }
+      }
+    },
+    "Items without a shortcut": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Éléments sans raccourci"
+          }
+        }
+      }
+    },
+    "Its name in Shortcuts": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Son nom dans Raccourcis"
+          }
+        }
+      }
+    },
+    "Keyboard focus": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Focus du clavier"
+          }
+        }
+      }
+    },
+    "macOS": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS"
+          }
+        }
+      }
+    },
+    "macOS handles these before apps and Bindings see them, so they are turned off or changed in System Settings. A rule of yours on one of them is flagged.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS les traite avant que les apps et Bindings ne les voient : ils se désactivent ou se changent dans Réglages Système. Une de vos règles sur l'un d'eux est signalée."
+          }
+        }
+      }
+    },
+    "macOS uses this shortcut for “%@”. Change one of the two (System Settings › Keyboard › Keyboard Shortcuts) or this one may never come.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS utilise ce raccourci pour « %@ ». Changez l'un des deux (Réglages Système › Clavier › Raccourcis clavier), sinon celui-ci risque de ne jamais arriver."
+          }
+        }
+      }
+    },
+    "Menu item": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Élément de menu"
+          }
+        }
+      }
+    },
+    "Menus read %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Menus lus %@"
+          }
+        }
+      }
+    },
+    "Most apps use this shortcut for %@: this rule takes it from all of them.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La plupart des apps utilisent ce raccourci pour %@ : cette règle le leur prend à toutes."
+          }
+        }
+      }
+    },
+    "Move Down": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Descendre"
+          }
+        }
+      }
+    },
+    "Move Up": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monter"
+          }
+        }
+      }
+    },
+    "No menu item with a shortcut.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun élément de menu avec un raccourci."
+          }
+        }
+      }
+    },
+    "No shortcut for a context yet: while typing, on the desktop, in a window.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun raccourci pour un contexte pour l'instant : pendant la saisie, sur le bureau, dans une fenêtre."
+          }
+        }
+      }
+    },
+    "No shortcut for given apps yet.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun raccourci pour des apps précises pour l'instant."
+          }
+        }
+      }
+    },
+    "No shortcut in every app yet.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun raccourci dans toutes les apps pour l'instant."
+          }
+        }
+      }
+    },
+    "No shortcut matches “%@”.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun raccourci ne correspond à « %@ »."
+          }
+        }
+      }
+    },
+    "Nothing (turn the shortcut off)": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rien (désactiver le raccourci)"
+          }
+        }
+      }
+    },
+    "on Explorer's desktop": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sur le bureau d'Explorer"
+          }
+        }
+      }
+    },
+    "On the desktop": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sur le bureau"
+          }
+        }
+      }
+    },
+    "Only in": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seulement dans"
+          }
+        }
+      }
+    },
+    "Open %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir %@"
+          }
+        }
+      }
+    },
+    "Open a folder in Explorer": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir un dossier dans Explorer"
+          }
+        }
+      }
+    },
+    "Open an app": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir une app"
+          }
+        }
+      }
+    },
+    "open it to read them again": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ouvrez-la pour les relire"
+          }
+        }
+      }
+    },
+    "Open Keyboard Shortcuts": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir les raccourcis clavier"
+          }
+        }
+      }
+    },
+    "Open “%@” in Explorer": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir « %@ » dans Explorer"
+          }
+        }
+      }
+    },
+    "Opens it, or brings it to the front when it is open.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'ouvre, ou la met au premier plan si elle est ouverte."
+          }
+        }
+      }
+    },
+    "Optional": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Facultatif"
+          }
+        }
+      }
+    },
+    "Other App": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autre app"
+          }
+        }
+      }
+    },
+    "Press": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appuyez"
+          }
+        }
+      }
+    },
+    "Press %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appuyer sur %@"
+          }
+        }
+      }
+    },
+    "Press a shortcut": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appuyez sur un raccourci"
+          }
+        }
+      }
+    },
+    "Press another shortcut": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appuyer sur un autre raccourci"
+          }
+        }
+      }
+    },
+    "Press instead": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appuyer à la place sur"
+          }
+        }
+      }
+    },
+    "Read Again": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Relire"
+          }
+        }
+      }
+    },
+    "Read the app's menus again, after an update or a change of language": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Relire les menus de l'app, après une mise à jour ou un changement de langue"
+          }
+        }
+      }
+    },
+    "Read the menus of a running app": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lire les menus d'une app ouverte"
+          }
+        }
+      }
+    },
+    "Reading the menus": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lecture des menus"
+          }
+        }
+      }
+    },
+    "Record a shortcut.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistrez un raccourci."
+          }
+        }
+      }
+    },
+    "Record Shortcut": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistrer le raccourci"
+          }
+        }
+      }
+    },
+    "Reload": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recharger"
+          }
+        }
+      }
+    },
+    "Remove": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supprimer"
+          }
+        }
+      }
+    },
+    "Remove the shortcut": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Supprimer le raccourci"
+          }
+        }
+      }
+    },
+    "Run a shell command": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exécuter une commande shell"
+          }
+        }
+      }
+    },
+    "Run a shortcut": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exécuter un raccourci"
+          }
+        }
+      }
+    },
+    "Run the “%@” shortcut": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exécuter le raccourci « %@ »"
+          }
+        }
+      }
+    },
+    "Run “%@”": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exécuter « %@ »"
+          }
+        }
+      }
+    },
+    "Runs in your login shell (zsh), from your home folder, without a window.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "S'exécute dans votre shell de connexion (zsh), depuis votre dossier de départ, sans fenêtre."
+          }
+        }
+      }
+    },
+    "Save": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistrer"
+          }
+        }
+      }
+    },
+    "Say what it does.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Indiquez ce qu'il fait."
+          }
+        }
+      }
+    },
+    "Search shortcuts": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rechercher des raccourcis"
+          }
+        }
+      }
+    },
+    "Shortcut": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raccourci"
+          }
+        }
+      }
+    },
+    "Shortcuts": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raccourcis"
+          }
+        }
+      }
+    },
+    "Show Rules File": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher le fichier des règles"
           }
         }
       }
@@ -2141,12 +3161,102 @@
         }
       }
     },
+    "System Shortcuts": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raccourcis du système"
+          }
+        }
+      }
+    },
     "Tabs": {
       "localizations": {
         "fr": {
           "stringUnit": {
             "state": "translated",
             "value": "Onglets"
+          }
+        }
+      }
+    },
+    "Takes the place of the app's own %@ shortcut, if it has one.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remplace le raccourci %@ de l'app, si elle en a un."
+          }
+        }
+      }
+    },
+    "Takes the place of “%@” (%@) here.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remplace ici « %@ » (%@)."
+          }
+        }
+      }
+    },
+    "The menus couldn't be read. Is Bindings allowed in Accessibility settings?": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les menus n'ont pas pu être lus. Bindings est-il autorisé dans les réglages Accessibilité ?"
+          }
+        }
+      }
+    },
+    "The menus haven't been read yet.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les menus n'ont pas encore été lus."
+          }
+        }
+      }
+    },
+    "The rules could not be saved: %@": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les règles n'ont pas pu être enregistrées : %@"
+          }
+        }
+      }
+    },
+    "The rules file can't be read: %@ Fix it in Settings › Bindings first.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le fichier des règles est illisible : %@ Corrigez-le d'abord dans Réglages › Bindings."
+          }
+        }
+      }
+    },
+    "The rules file can't be read: %@ Fix it, or move it away, then click Reload.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le fichier des règles est illisible : %@ Corrigez-le ou déplacez-le, puis cliquez sur Recharger."
+          }
+        }
+      }
+    },
+    "The shortcuts of your apps' menus and of macOS, to turn off or change": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les raccourcis des menus de vos apps et de macOS, pour les désactiver ou les changer"
           }
         }
       }
@@ -2231,6 +3341,16 @@
         }
       }
     },
+    "The titles from the menu bar down, as the app in front shows them, separated by › or >. It beeps when the app has no such item.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les titres depuis la barre des menus, tels que les affiche l'app au premier plan, séparés par › ou >. Un bip retentit si l'app n'a pas cet élément."
+          }
+        }
+      }
+    },
     "The toolbar as the profile “%@” holds it.": {
       "localizations": {
         "fr": {
@@ -2271,6 +3391,16 @@
         }
       }
     },
+    "This key types text: it would no longer type in text fields. Add ⌘, ⌃ or fn, or choose “When not typing” in a context.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette touche saisit du texte : elle ne saisirait plus rien dans les champs de texte. Ajoutez ⌘, ⌃ ou fn, ou choisissez « Hors saisie » dans un contexte."
+          }
+        }
+      }
+    },
     "This Mac": {
       "localizations": {
         "fr": {
@@ -2287,6 +3417,16 @@
           "stringUnit": {
             "state": "translated",
             "value": "Taille du texte"
+          }
+        }
+      }
+    },
+    "This rule does nothing until then.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette règle ne fait rien d'ici là."
           }
         }
       }
@@ -2361,6 +3501,46 @@
         }
       }
     },
+    "Turn this shortcut back on": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réactiver ce raccourci"
+          }
+        }
+      }
+    },
+    "Turn this shortcut off": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Désactiver ce raccourci"
+          }
+        }
+      }
+    },
+    "Turn this shortcut off in this app": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Désactiver ce raccourci dans cette app"
+          }
+        }
+      }
+    },
+    "Turn this shortcut on": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activer ce raccourci"
+          }
+        }
+      }
+    },
     "Unpin": {
       "localizations": {
         "fr": {
@@ -2377,6 +3557,16 @@
           "stringUnit": {
             "state": "translated",
             "value": "Mises à jour"
+          }
+        }
+      }
+    },
+    "Use my own keyboard shortcuts": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utiliser mes propres raccourcis clavier"
           }
         }
       }
@@ -2431,12 +3621,62 @@
         }
       }
     },
+    "when not typing": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "hors saisie"
+          }
+        }
+      }
+    },
+    "When not typing": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hors saisie"
+          }
+        }
+      }
+    },
     "When the desktop is full. Otherwise those items are hidden.": {
       "localizations": {
         "fr": {
           "stringUnit": {
             "state": "translated",
             "value": "Quand le bureau est plein. Sinon ces éléments sont masqués."
+          }
+        }
+      }
+    },
+    "Where": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Où"
+          }
+        }
+      }
+    },
+    "Where several rules use the same shortcut, the most specific wins: a context over an app, an app over everywhere.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quand plusieurs règles utilisent le même raccourci, la plus précise l'emporte : un contexte sur une app, une app sur partout."
+          }
+        }
+      }
+    },
+    "Where the rule applies, the shortcut does nothing and the app in front doesn't get it.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Là où la règle s'applique, le raccourci ne fait rien et l'app au premier plan ne le reçoit pas."
           }
         }
       }
@@ -2461,12 +3701,42 @@
         }
       }
     },
+    "while typing in a text field": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pendant la saisie dans un champ de texte"
+          }
+        }
+      }
+    },
+    "While typing in a text field": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pendant la saisie dans un champ de texte"
+          }
+        }
+      }
+    },
     "Wide": {
       "localizations": {
         "fr": {
           "stringUnit": {
             "state": "translated",
             "value": "Large"
+          }
+        }
+      }
+    },
+    "Window title contains": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le titre de la fenêtre contient"
           }
         }
       }
@@ -2538,6 +3808,26 @@
           "stringUnit": {
             "state": "translated",
             "value": "enregistré le "
+          }
+        }
+      }
+    },
+    "“%@” takes its place %@.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "« %@ » le remplace %@."
+          }
+        }
+      }
+    },
+    "“%@” uses the same shortcut where both apply: only the one higher in the list runs.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "« %@ » utilise le même raccourci là où les deux s'appliquent : seul celui placé plus haut dans la liste s'exécute."
           }
         }
       }

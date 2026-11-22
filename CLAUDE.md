@@ -10,8 +10,9 @@ still to come: a catalog to discover and install the others.
 ```
 SettingsUI    (library, SwiftUI) every app's settings tabs, read and written through each app's settings
               library: ExplorerSettings (repository suite-explorer), DesktopSettings (suite-desktop),
-              BarSettings (suite-bar), ClipboardSettings (suite-clipboard); SuiteFilesCore (suite-files)
-              for the file display settings
+              BarSettings (suite-bar), ClipboardSettings (suite-clipboard), BindingsCore (suite-bindings:
+              its rules, the menus Bindings read, the clashes); SuiteFilesCore (suite-files) for the file
+              display settings
 Settings      (Suite Settings.app)
 NativeBanner  (library, no UI, tested) which System Settings pane a window shows (NativePane) and what
               to cover there for the suite apps running (PaneMarks, PaneCover, RowLayout)
@@ -32,6 +33,13 @@ and starts it when it is turned on (`BarApp.settingsChanged()`); Bar.app reports
 Accessibility (`BarMessage.statusDidChange`). The Desktop tab writes Desktop.app's defaults
 (`DesktopSettings.current`) and tells it (`DesktopMessage.applySettings`).
 
+The Bindings tab (`BindingsSettingsTab.swift`, shown only when Bindings is installed) edits Bindings' rules
+file and settings through `BindingsCore`, records a chord by pressing it (Bindings is paused meanwhile,
+`BindingsMessage.setPaused`), warns about clashes, and opens the Shortcuts window (`ShortcutsBrowser.swift`):
+every app's menu shortcuts as Bindings read them, to turn off or rebind, and macOS' own, read-only. It
+starts Bindings and asks it for Accessibility through `BindingsApp` (SuiteCore). `suite-bindings` is a
+branch dependency (`feat/bindings`) until that branch is merged there; then back to a version.
+
 ## What Suite Settings does today
 
 - **Settings**: Suite Settings, opened from the apps' menus on the right tab (`SettingsApp.show` in
@@ -43,7 +51,7 @@ Accessibility (`BarMessage.statusDidChange`). The Desktop tab writes Desktop.app
   tabs show about it (`Status` keys, kept out of profiles) whenever its settings change. Tabs: General
   (what concerns every app: updates), Profile, then one tab per app (Explorer: Finder,
   files, windows, sidebar and Favorites; Toolbar; Trash: Restore, iCloud Drive's Trash, the folders it gathers,
-  Empty Trash; Desktop, Bar, Viewer, Clipboard), SwiftUI forms in an `NSTabViewController` toolbar window.
+  Empty Trash; Desktop, Bar, Viewer, Clipboard, Bindings), SwiftUI forms in an `NSTabViewController` toolbar window.
   Profile: the settings of Explorer, Desktop, Bar, Clipboard, Viewer, Bindings and Launcher saved as named profiles on this Mac
   (Application Support/Explorer/Profiles) or in iCloud Drive › Explorer › Profiles, created from the current
   settings, saved again, moved, trashed, and loaded: the apps' defaults replaced and applied at once
@@ -70,7 +78,7 @@ Accessibility (`BarMessage.statusDidChange`). The Desktop tab writes Desktop.app
 - Suite Settings (About windows, catalog of the apps from `suite`'s `catalog.json`, installing them).
 - Settings in each app (⌘,), this app as the hub: each app's tabs move to a `<App>SettingsUI` product of
   its repository, laid out here.
-- Moved branches (rebase on this `main`): `feat/bindings` (the Bindings tab), `feat/dock-parity` (the Dock
+- Moved branches (rebase on this `main`): `feat/dock-parity` (the Dock
   tab), `feat/launcher/core` (the Dock tab's Launcher switch).
 
 ## Building and running

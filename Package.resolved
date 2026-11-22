@@ -10,6 +10,15 @@
       }
     },
     {
+      "identity" : "suite-bindings",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/love-suite/suite-bindings",
+      "state" : {
+        "branch" : "feat/bindings",
+        "revision" : "b693c3bb19c8af856c6e5f3ae53782368f34293f"
+      }
+    },
+    {
       "identity" : "suite-clipboard",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/love-suite/suite-clipboard",

@@ -20,6 +20,9 @@ let package = Package(
         .package(url: "https://github.com/\(organization)/suite-clipboard", .upToNextMinor(from: "27.1.0-dev.1")),
         .package(url: "https://github.com/\(organization)/suite-files", .upToNextMinor(from: "27.1.0-dev.1")),
         .package(url: "https://github.com/\(organization)/suite-desktop", .upToNextMinor(from: "27.1.0-dev.1")),
+        // Bindings' rules and settings for its tab. A branch until suite-bindings' feat/bindings is merged:
+        // then back to a version, `.upToNextMinor(from: "27.1.0-dev.1")` or the tag it gets.
+        .package(url: "https://github.com/\(organization)/suite-bindings", branch: "feat/bindings"),
     ],
     targets: [
         // Every app's settings tabs, read and written through each app's settings library.
@@ -32,6 +35,7 @@ let package = Package(
                 .product(name: "BarSettings", package: "suite-bar"),
                 .product(name: "SuiteFilesCore", package: "suite-files"),
                 .product(name: "DesktopSettings", package: "suite-desktop"),
+                .product(name: "BindingsCore", package: "suite-bindings"),
             ],
             resources: [.process("Resources")]
         ),

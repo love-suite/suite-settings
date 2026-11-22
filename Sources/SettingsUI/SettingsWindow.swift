@@ -32,6 +32,10 @@ public enum SettingsWindow {
                 tabs.addTabViewItem(tab("Clipboard", symbol: "list.clipboard",
                                         ClipboardSettingsView(model: ClipboardSettingsModel())))
             }
+            if BindingsApp.appURL != nil {
+                tabs.addTabViewItem(tab("Bindings", symbol: "command.square",
+                                        BindingsSettingsView(model: BindingsSettingsModel())))
+            }
             let window = NSWindow(contentViewController: tabs)
             window.styleMask = [.titled, .closable, .miniaturizable]
             window.isReleasedWhenClosed = false
