@@ -41,6 +41,31 @@ struct BarSettingsView: View {
                     Text(UIL("Large"))
                 }
                 VStack(alignment: .leading, spacing: 4) {
+                    Toggle(UIL("Magnification"), isOn: bar(\.magnifies))
+                    Slider(value: bar(\.magnifiedSize), in: BarSettings.magnifiedSizes, step: 8) {
+                        Text(UIL("Magnified size"))
+                    } minimumValueLabel: {
+                        Text(UIL("Small"))
+                    } maximumValueLabel: {
+                        Text(UIL("Large"))
+                    }
+                    .disabled(!options.magnifies)
+                }
+                Picker(UIL("Position on screen"), selection: bar(\.position)) {
+                    Text(UIL("Left")).tag(BarPosition.left)
+                    Text(UIL("Bottom")).tag(BarPosition.bottom)
+                    Text(UIL("Right")).tag(BarPosition.right)
+                }
+                .pickerStyle(.segmented)
+                VStack(alignment: .leading, spacing: 4) {
+                    Picker(UIL("Show on"), selection: bar(\.display)) {
+                        Text(UIL("The main display")).tag(BarDisplay.main)
+                        Text(UIL("The display with the pointer")).tag(BarDisplay.withPointer)
+                    }
+                    BarNote(UIL("With the pointer: push it against another display's edge where the Dock goes, "
+                             + "and the Dock moves there, as the system Dock does."))
+                }
+                VStack(alignment: .leading, spacing: 4) {
                     Picker(UIL("By default"), selection: bar(\.autohides)) {
                         Text(UIL("Hides automatically")).tag(true)
                         Text(UIL("Stays on screen")).tag(false)
@@ -62,6 +87,10 @@ struct BarSettingsView: View {
                     }
                     BarNote(UIL("While an app fills the screen. As for the app: the default and the lists above."))
                 }
+                Toggle(UIL("Minimize windows into application icon"), isOn: bar(\.minimizesIntoApp))
+                Toggle(UIL("Animate opening applications"), isOn: bar(\.animatesLaunch))
+                Toggle(UIL("Show indicators for open applications"), isOn: bar(\.showsIndicators))
+                Toggle(UIL("Show recent applications in Dock"), isOn: bar(\.showsRecents))
                 VStack(alignment: .leading, spacing: 4) {
                     HStack {
                         Text(UIL("Other apps\u{2019} windows"))

@@ -1900,6 +1900,146 @@
           }
         }
       }
+    },
+    "Minimize windows into application icon": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Placer les fenêtres dans l’icône de l’app"
+          }
+        }
+      }
+    },
+    "Animate opening applications": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Animer l’ouverture des applications"
+          }
+        }
+      }
+    },
+    "Show indicators for open applications": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher les indicateurs des apps ouvertes"
+          }
+        }
+      }
+    },
+    "Show recent applications in Dock": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher les apps récentes dans le Dock"
+          }
+        }
+      }
+    },
+    "Magnification": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agrandissement"
+          }
+        }
+      }
+    },
+    "Magnified size": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taille agrandie"
+          }
+        }
+      }
+    },
+    "Position on screen": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Position à l’écran"
+          }
+        }
+      }
+    },
+    "Left": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gauche"
+          }
+        }
+      }
+    },
+    "Bottom": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bas"
+          }
+        }
+      }
+    },
+    "Right": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Droite"
+          }
+        }
+      }
+    },
+    "Show on": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher sur"
+          }
+        }
+      }
+    },
+    "The main display": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L’écran principal"
+          }
+        }
+      }
+    },
+    "The display with the pointer": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L’écran où est le pointeur"
+          }
+        }
+      }
+    },
+    "With the pointer: push it against another display's edge where the Dock goes, and the Dock moves there, as the system Dock does.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avec le pointeur : poussez-le contre le bord d’un autre écran, là où va le Dock, et le Dock s’y déplace, comme le Dock système."
+          }
+        }
+      }
     }
   },
   "version": "1.0"

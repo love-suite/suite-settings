@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/love-suite/suite-bar",
       "state" : {
-        "revision" : "08e4bbff1152e4455bfeb83b6b6d93cb23ab24c9",
-        "version" : "27.1.0-dev.1"
+        "branch" : "feat/dock-parity",
+        "revision" : "63e1bfb364f918d47f096fa651d094a914b61f2b"
       }
     },
     {

@@ -241,6 +241,16 @@
         }
       }
     },
+    "Animate opening applications": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Animer l’ouverture des applications"
+          }
+        }
+      }
+    },
     "Applies while the desktop is sorted by type.": {
       "localizations": {
         "fr": {
@@ -417,6 +427,16 @@
           "stringUnit": {
             "state": "translated",
             "value": "Bar remplace le Dock système, masqué avec l'icône du Finder, dont les réglages reviennent avec le Dock système. Affiché quand Explorer gère les fichiers (Général)."
+          }
+        }
+      }
+    },
+    "Bottom": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bas"
           }
         }
       }
@@ -677,6 +697,96 @@
           "stringUnit": {
             "state": "translated",
             "value": "Tous les boutons dans la barre, dans l'ordre habituel, icônes seulement."
+          }
+        }
+      }
+    },
+    "Left": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gauche"
+          }
+        }
+      }
+    },
+    "Magnification": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agrandissement"
+          }
+        }
+      }
+    },
+    "Magnified size": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taille agrandie"
+          }
+        }
+      }
+    },
+    "Minimize windows into application icon": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Placer les fenêtres dans l’icône de l’app"
+          }
+        }
+      }
+    },
+    "Position on screen": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Position à l’écran"
+          }
+        }
+      }
+    },
+    "Right": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Droite"
+          }
+        }
+      }
+    },
+    "Show indicators for open applications": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher les indicateurs des apps ouvertes"
+          }
+        }
+      }
+    },
+    "Show on": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher sur"
+          }
+        }
+      }
+    },
+    "Show recent applications in Dock": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher les apps récentes dans le Dock"
           }
         }
       }
@@ -2151,6 +2261,26 @@
         }
       }
     },
+    "The display with the pointer": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L’écran où est le pointeur"
+          }
+        }
+      }
+    },
+    "The main display": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L’écran principal"
+          }
+        }
+      }
+    },
     "The Side by Side button opens a second window, each on half of the screen. F5 copies and F6 moves the selected items to the other side; the arrows button swaps the sides. Click the button again to close the second window.": {
       "localizations": {
         "fr": {
@@ -2307,6 +2437,16 @@
           "stringUnit": {
             "state": "translated",
             "value": "Pour les maintenir au-dessus de Bar et afficher les fenêtres réduites dedans, Bar a besoin de l'autorisation Accessibilité (Confidentialité et sécurité › Accessibilité)."
+          }
+        }
+      }
+    },
+    "To keep them above the Dock and show the minimized ones in it, Explorer needs the Accessibility permission (Privacy & Security › Accessibility).": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pour les maintenir au-dessus du Dock et afficher les fenêtres réduites dedans, Explorer a besoin de l'autorisation Accessibilité (Confidentialité et sécurité › Accessibilité)."
           }
         }
       }
@@ -2497,6 +2637,16 @@
           "stringUnit": {
             "state": "translated",
             "value": "Raccourcis Windows"
+          }
+        }
+      }
+    },
+    "With the pointer: push it against another display's edge where the Dock goes, and the Dock moves there, as the system Dock does.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avec le pointeur : poussez-le contre le bord d’un autre écran, là où va le Dock, et le Dock s’y déplace, comme le Dock système."
           }
         }
       }

@@ -16,7 +16,9 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/\(organization)/suite-core", .upToNextMinor(from: "27.1.0-dev.1")),
         .package(url: "https://github.com/\(organization)/suite-explorer", .upToNextMinor(from: "27.1.0-dev.1")),
-        .package(url: "https://github.com/\(organization)/suite-bar", .upToNextMinor(from: "27.1.0-dev.1")),
+        // Until feat/dock-parity is merged in suite-bar: its settings, from that branch. Back to
+        // .upToNextMinor(from:) once suite-bar has a version with them.
+        .package(url: "https://github.com/\(organization)/suite-bar", branch: "feat/dock-parity"),
         .package(url: "https://github.com/\(organization)/suite-clipboard", .upToNextMinor(from: "27.1.0-dev.1")),
         .package(url: "https://github.com/\(organization)/suite-files", .upToNextMinor(from: "27.1.0-dev.1")),
         .package(url: "https://github.com/\(organization)/suite-desktop", .upToNextMinor(from: "27.1.0-dev.1")),
