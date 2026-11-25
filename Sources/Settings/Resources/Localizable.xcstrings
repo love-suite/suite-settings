@@ -1,0 +1,1906 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "Language": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Langue"
+          }
+        }
+      }
+    },
+    "System default": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Langue du système"
+          }
+        }
+      }
+    },
+    "Restart to Apply": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Redémarrer pour appliquer"
+          }
+        }
+      }
+    },
+    "Explorer and Suite Settings restart to apply the change.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Explorer et Suite Settings redémarrent pour appliquer le changement."
+          }
+        }
+      }
+    },
+    "Updates": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mises à jour"
+          }
+        }
+      }
+    },
+    "Version": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version"
+          }
+        }
+      }
+    },
+    "Check for updates automatically": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vérifier automatiquement les mises à jour"
+          }
+        }
+      }
+    },
+    "Install them": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les installer"
+          }
+        }
+      }
+    },
+    "Automatically": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Automatiquement"
+          }
+        }
+      }
+    },
+    "After asking": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Après confirmation"
+          }
+        }
+      }
+    },
+    "Once no Explorer window is open; Explorer, Viewer and Clipboard reopen by themselves.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dès qu'aucune fenêtre Explorer n'est ouverte ; Explorer, Viewer et Clipboard se rouvrent automatiquement."
+          }
+        }
+      }
+    },
+    "A dialog shows what's new and installs it when you say so.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un dialogue présente les nouveautés et l'installe quand vous acceptez."
+          }
+        }
+      }
+    },
+    "Check Now": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vérifier maintenant"
+          }
+        }
+      }
+    },
+    "Releases from": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versions depuis"
+          }
+        }
+      }
+    },
+    "GitHub releases": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versions GitHub"
+          }
+        }
+      }
+    },
+    "Empty, Explorer looks at the latest release on GitHub, where scripts/publish.sh publishes them. A web address of another update.json works too.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vide, Explorer cherche la dernière version sur GitHub, où scripts/publish.sh les publie. Une adresse web d'un autre update.json fonctionne aussi."
+          }
+        }
+      }
+    },
+    "Restore": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restaurer"
+          }
+        }
+      }
+    },
+    "Open the folder of restored items": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir le dossier des éléments restaurés"
+          }
+        }
+      }
+    },
+    "Restore opens the folder each item went back to, with it selected.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restaurer ouvre le dossier de chaque élément restauré, avec l'élément sélectionné."
+          }
+        }
+      }
+    },
+    "Restore leaves the Trash in front. Its details view shows where each item came from.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restaurer laisse la Corbeille au premier plan. Sa vue en liste indique la provenance de chaque élément."
+          }
+        }
+      }
+    },
+    "What the Trash shows": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ce que montre la Corbeille"
+          }
+        }
+      }
+    },
+    "Include iCloud Drive's Trash": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Inclure la Corbeille d'iCloud Drive"
+          }
+        }
+      }
+    },
+    "What was deleted from iCloud Drive, and from the Desktop and Documents when they are in iCloud, shows in the Trash: it can be restored or deleted permanently.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ce qui a été supprimé d'iCloud Drive, et du Bureau et Documents quand ils sont dans iCloud, apparaît dans la Corbeille : il peut être restauré ou supprimé définitivement."
+          }
+        }
+      }
+    },
+    "Items deleted from iCloud Drive stay out of Explorer's Trash: they can't be restored or deleted permanently here.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les éléments supprimés d'iCloud Drive ne figurent pas dans la Corbeille d'Explorer : ils ne peuvent pas être restaurés ni supprimés définitivement ici."
+          }
+        }
+      }
+    },
+    "It gathers": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elle rassemble"
+          }
+        }
+      }
+    },
+    "Empty Trash": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vider la Corbeille"
+          }
+        }
+      }
+    },
+    "Erases everything in these folders for good, after asking. It can't be undone.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Efface définitivement tout le contenu de ces dossiers, après confirmation. L'opération est irréversible."
+          }
+        }
+      }
+    },
+    "Open pictures in Viewer": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir les images dans Viewer"
+          }
+        }
+      }
+    },
+    "Arrow keys go through the folder's pictures; Open in Preview edits them.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les touches fléchées parcourent les images du dossier ; Ouvrir dans Aperçu permet de les modifier."
+          }
+        }
+      }
+    },
+    "Icons": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Icônes"
+          }
+        }
+      }
+    },
+    "Size": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taille"
+          }
+        }
+      }
+    },
+    "Small": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Petite"
+          }
+        }
+      }
+    },
+    "Medium": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Moyenne"
+          }
+        }
+      }
+    },
+    "Large": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grande"
+          }
+        }
+      }
+    },
+    "Arrangement": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Disposition"
+          }
+        }
+      }
+    },
+    "Align icons to grid": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aligner les icônes sur la grille"
+          }
+        }
+      }
+    },
+    "Show where icons will land while dragging": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher la position cible lors du glisser"
+          }
+        }
+      }
+    },
+    "Move icons while dragging": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Déplacer les icônes pendant le glisser"
+          }
+        }
+      }
+    },
+    "Stacks": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Piles"
+          }
+        }
+      }
+    },
+    "Stack items of the same type": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Regrouper les éléments du même type en piles"
+          }
+        }
+      }
+    },
+    "Applies while the desktop is sorted by type.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "S'applique lorsque le bureau est trié par type."
+          }
+        }
+      }
+    },
+    "Put items that don't fit into a stack": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mettre les éléments en trop dans une pile"
+          }
+        }
+      }
+    },
+    "When the desktop is full. Otherwise those items are hidden.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quand le bureau est plein. Sinon ces éléments sont masqués."
+          }
+        }
+      }
+    },
+    "Manage files with": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gérer les fichiers avec"
+          }
+        }
+      }
+    },
+    "Switching back to Finder brings back its desktop and windows.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revenir à Finder rétablit son bureau et ses fenêtres."
+          }
+        }
+      }
+    },
+    "Show Explorer in the menu bar": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher Explorer dans la barre des menus"
+          }
+        }
+      }
+    },
+    "An icon on the right of the menu bar, with New Explorer Window, the switch and Settings.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Une icône à droite de la barre des menus, avec Nouvelle fenêtre Explorer, le commutateur et Réglages."
+          }
+        }
+      }
+    },
+    "Finder": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finder"
+          }
+        }
+      }
+    },
+    "Open folders from other apps in Explorer": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir les dossiers d'autres apps dans Explorer"
+          }
+        }
+      }
+    },
+    "\"Show in Finder\" in other apps opens Explorer.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "« Afficher dans le Finder » dans les autres apps ouvre Explorer."
+          }
+        }
+      }
+    },
+    "Keep Finder closed": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Garder le Finder fermé"
+          }
+        }
+      }
+    },
+    "Redirect Finder to Explorer": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rediriger le Finder vers Explorer"
+          }
+        }
+      }
+    },
+    "Ask first": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demander d'abord"
+          }
+        }
+      }
+    },
+    "Files": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fichiers"
+          }
+        }
+      }
+    },
+    "Show thumbnails instead of icons": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher les vignettes à la place des icônes"
+          }
+        }
+      }
+    },
+    "Pictures, videos and documents show their content, on the desktop and in windows.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les images, vidéos et documents affichent leur contenu, sur le bureau et dans les fenêtres."
+          }
+        }
+      }
+    },
+    "Show the full name of selected items": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher le nom complet des éléments sélectionnés"
+          }
+        }
+      }
+    },
+    "Show file extensions": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher les extensions de fichier"
+          }
+        }
+      }
+    },
+    "Off (as in Windows), “Report.pdf” shows as “Report”; renaming keeps the extension. Also with the toolbar button and View › Show File Extensions.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Désactivé (comme sous Windows), “Report.pdf” s'affiche comme “Report” ; renommer conserve l'extension. Aussi avec le bouton de la barre d'outils et Affichage › Afficher les extensions."
+          }
+        }
+      }
+    },
+    "Show cloud status badges": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher les indicateurs de synchronisation cloud"
+          }
+        }
+      }
+    },
+    "Show it": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Style"
+          }
+        }
+      }
+    },
+    "On the icon, as in Windows": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sur l'icône, comme sous Windows"
+          }
+        }
+      }
+    },
+    "After the name, as in Finder": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Après le nom, comme dans le Finder"
+          }
+        }
+      }
+    },
+    "A coloured disc on iCloud Drive and cloud storage items: online only, on this Mac, syncing, or a problem.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un disque coloré sur les éléments iCloud Drive et de stockage cloud : en ligne uniquement, sur ce Mac, en synchronisation, ou erreur."
+          }
+        }
+      }
+    },
+    "A grey sign after the name: online only, syncing, or a problem; nothing for items already on this Mac.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un signe gris après le nom : en ligne uniquement, en synchronisation, ou erreur ; rien pour les éléments déjà sur ce Mac."
+          }
+        }
+      }
+    },
+    "Show hidden files": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher les fichiers cachés"
+          }
+        }
+      }
+    },
+    "Also with the eye button in Explorer windows, or Cmd+Shift+period.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aussi avec le bouton œil dans les fenêtres Explorer, ou Cmd+Maj+point."
+          }
+        }
+      }
+    },
+    "Rename and open": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Renommer et ouvrir"
+          }
+        }
+      }
+    },
+    "Mac shortcuts": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raccourcis Mac"
+          }
+        }
+      }
+    },
+    "Windows shortcuts": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raccourcis Windows"
+          }
+        }
+      }
+    },
+    "F2 or Return renames; Cmd+Down or a double-click opens.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "F2 ou Entrée renomme ; Cmd+Bas ou un double-clic ouvre."
+          }
+        }
+      }
+    },
+    "F2 renames; Return, Cmd+Down or a double-click opens.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "F2 renomme ; Entrée, Cmd+Bas ou un double-clic ouvre."
+          }
+        }
+      }
+    },
+    "Windows": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fenêtres"
+          }
+        }
+      }
+    },
+    "Reopen windows from last time": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rouvrir les fenêtres de la dernière session"
+          }
+        }
+      }
+    },
+    "At launch, and after a restart or a crash: each window where it was, its tabs, folders, Side by Side and preview pane. Windows you close don't come back.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Au lancement, et après un redémarrage ou un crash : chaque fenêtre à sa place, avec ses onglets, dossiers, Côte à côte et volet de prévisualisation. Les fenêtres fermées ne reviennent pas."
+          }
+        }
+      }
+    },
+    "Tabs": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Onglets"
+          }
+        }
+      }
+    },
+    "Use tabs": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utiliser les onglets"
+          }
+        }
+      }
+    },
+    "Open folders from the desktop and other apps": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir les dossiers du bureau et d'autres apps"
+          }
+        }
+      }
+    },
+    "In a new tab": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans un nouvel onglet"
+          }
+        }
+      }
+    },
+    "In a new window": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans une nouvelle fenêtre"
+          }
+        }
+      }
+    },
+    "New tabs join the window in front. File › New Explorer Window always opens a window.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les nouveaux onglets rejoignent la fenêtre au premier plan. Fichier › Nouvelle fenêtre Explorer ouvre toujours une fenêtre."
+          }
+        }
+      }
+    },
+    "Without tabs, every folder opens in a window of its own.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sans onglets, chaque dossier s'ouvre dans sa propre fenêtre."
+          }
+        }
+      }
+    },
+    "Folder Tree": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arborescence"
+          }
+        }
+      }
+    },
+    "Show": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher"
+          }
+        }
+      }
+    },
+    "Icons and names": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Icônes et noms"
+          }
+        }
+      }
+    },
+    "Icons only": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Icônes uniquement"
+          }
+        }
+      }
+    },
+    "Hidden": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Masquée"
+          }
+        }
+      }
+    },
+    "The sidebar button hides or shows it; right-click the tree to choose icons only. Side by Side, the right folder's tree has its own button and its own setting.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le bouton de la barre latérale la masque ou l'affiche ; cliquez droit sur l'arborescence pour choisir les icônes seules. Côte à côte, l'arborescence du dossier droit a son propre bouton et son propre réglage."
+          }
+        }
+      }
+    },
+    "Show in the tree": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher dans l'arborescence"
+          }
+        }
+      }
+    },
+    "Quick access": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accès rapide"
+          }
+        }
+      }
+    },
+    "Pin folders from their right-click menu, or drop them on Quick access in the tree.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Épinglez des dossiers depuis leur menu contextuel, ou déposez-les sur Accès rapide dans l'arborescence."
+          }
+        }
+      }
+    },
+    "Unpin": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Désépingler"
+          }
+        }
+      }
+    },
+    "Side by Side": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Côte à côte"
+          }
+        }
+      }
+    },
+    "Show the two folders": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher les deux dossiers"
+          }
+        }
+      }
+    },
+    "In the same window": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans la même fenêtre"
+          }
+        }
+      }
+    },
+    "In two windows": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans deux fenêtres"
+          }
+        }
+      }
+    },
+    "The Side by Side button splits the window in two; the second folder starts on the next tab's folder, or the same one. F5 copies and F6 moves the selected items to the other side; the arrows button swaps the sides. Click the button again to close it.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le bouton Côte à côte divise la fenêtre en deux ; le deuxième dossier démarre sur le dossier de l'onglet suivant, ou le même. F5 copie et F6 déplace les éléments sélectionnés de l'autre côté ; le bouton avec les flèches échange les côtés. Cliquez à nouveau sur le bouton pour le fermer."
+          }
+        }
+      }
+    },
+    "The Side by Side button opens a second window, each on half of the screen. F5 copies and F6 moves the selected items to the other side; the arrows button swaps the sides. Click the button again to close the second window.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le bouton Côte à côte ouvre une deuxième fenêtre, chacune sur la moitié de l'écran. F5 copie et F6 déplace les éléments sélectionnés de l'autre côté ; le bouton avec les flèches échange les côtés. Cliquez à nouveau sur le bouton pour fermer la deuxième fenêtre."
+          }
+        }
+      }
+    },
+    "Enable": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activer"
+          }
+        }
+      }
+    },
+    "System Dock": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dock système"
+          }
+        }
+      }
+    },
+    "By default": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Par défaut"
+          }
+        }
+      }
+    },
+    "Hides automatically": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se masque automatiquement"
+          }
+        }
+      }
+    },
+    "Stays on screen": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reste à l'écran"
+          }
+        }
+      }
+    },
+    "Hidden, it slides in when the pointer reaches the bottom of the screen. On screen, maximized windows end above it.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Masqué, il apparaît quand le pointeur atteint le bas de l'écran. À l'écran, les fenêtres agrandies se terminent au-dessus."
+          }
+        }
+      }
+    },
+    "Stays on screen with these apps": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reste à l'écran avec ces apps"
+          }
+        }
+      }
+    },
+    "Hides automatically with these apps": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se masque automatiquement avec ces apps"
+          }
+        }
+      }
+    },
+    "While one of them is in front. Each default keeps its own list.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pendant qu'une de ces apps est au premier plan. Chaque réglage par défaut conserve sa propre liste."
+          }
+        }
+      }
+    },
+    "In full screen": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En plein écran"
+          }
+        }
+      }
+    },
+    "As for the app": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Comme pour l'app"
+          }
+        }
+      }
+    },
+    "While an app fills the screen. As for the app: the default and the lists above.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pendant qu'une app remplit l'écran. Comme pour l'app : le réglage par défaut et les listes ci-dessus."
+          }
+        }
+      }
+    },
+    "Other apps' windows": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fenêtres des autres apps"
+          }
+        }
+      }
+    },
+    "Allowed": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autorisé"
+          }
+        }
+      }
+    },
+    "Allow": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Autoriser"
+          }
+        }
+      }
+    },
+    "To keep them above the Dock and show the minimized ones in it, Explorer needs the Accessibility permission (Privacy & Security › Accessibility).": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pour les maintenir au-dessus du Dock et afficher les fenêtres réduites, Explorer nécessite l'autorisation Accessibilité (Confidentialité et sécurité › Accessibilité)."
+          }
+        }
+      }
+    },
+    "No apps": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucune app"
+          }
+        }
+      }
+    },
+    "Choose an App": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choisir une app"
+          }
+        }
+      }
+    },
+    "Preview": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aperçu"
+          }
+        }
+      }
+    },
+    "In a folder": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans un dossier"
+          }
+        }
+      }
+    },
+    "In the Trash": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dans la Corbeille"
+          }
+        }
+      }
+    },
+    "Show button labels": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher les noms des boutons"
+          }
+        }
+      }
+    },
+    "Restore Default": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réinitialiser par défaut"
+          }
+        }
+      }
+    },
+    "Every button in the toolbar, in the usual order, icons only.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tous les boutons de la barre d'outils, dans l'ordre habituel, icônes seulement."
+          }
+        }
+      }
+    },
+    "Restore Profile Default": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Restaurer le profil par défaut"
+          }
+        }
+      }
+    },
+    "No profile is loaded: create or load one in the Profile tab.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun profil chargé : créez-en un ou chargez-en un dans l'onglet Profil."
+          }
+        }
+      }
+    },
+    "Window width": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Largeur de la fenêtre"
+          }
+        }
+      }
+    },
+    "Restore Default Width": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Largeur par défaut"
+          }
+        }
+      }
+    },
+    "Open New Windows at This Width": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir les nouvelles fenêtres à cette largeur"
+          }
+        }
+      }
+    },
+    "Drag buttons to reorder them, into More, or out of the bar to hide them.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Faites glisser les boutons pour les réordonner, les mettre dans Plus, ou les retirer de la barre pour les masquer."
+          }
+        }
+      }
+    },
+    "Drop commands here": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Déposez des commandes ici"
+          }
+        }
+      }
+    },
+    "Drag a button out of the bar to hide it": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Faites glisser un bouton hors de la barre pour le masquer"
+          }
+        }
+      }
+    },
+    "Keep a clipboard history": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conserver un historique du presse-papiers"
+          }
+        }
+      }
+    },
+    "Clipboard keeps what you copy, as Windows does. Hold ⌘V in any app to see the list, or use Edit › Clipboard History in Explorer.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clipboard conserve ce que vous copiez, comme sur Windows. Maintenez ⌘V dans n'importe quelle app pour voir la liste, ou utilisez Édition › Historique du presse-papiers dans Explorer."
+          }
+        }
+      }
+    },
+    "Hold ⌘V to open the history": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maintenir ⌘V pour ouvrir l'historique"
+          }
+        }
+      }
+    },
+    "A short ⌘V still pastes. Keep ⌘ down and press V again to go down the list, then let go of ⌘ to paste. In the list, ↄ1 to ↄ9 paste the nine latest.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un ⌘V court colle toujours. Maintenez ⌘ et appuyez sur V pour descendre dans la liste, puis relâchez ⌘ pour coller. Dans la liste, ↄ1 à ↄ9 collent les neuf derniers éléments."
+          }
+        }
+      }
+    },
+    "Show in the list": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher dans la liste"
+          }
+        }
+      }
+    },
+    "Keep the pinned list above other windows": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Garder la liste épinglée au-dessus des autres fenêtres"
+          }
+        }
+      }
+    },
+    "List": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Liste"
+          }
+        }
+      }
+    },
+    "“Show All” at the end of the list opens the whole history in a window. The pin at the top of the list keeps it open when you click elsewhere or paste.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "« Tout afficher » en bas de la liste ouvre tout l'historique dans une fenêtre. L'épingle en haut de la liste la garde ouverte quand vous cliquez ailleurs ou collez."
+          }
+        }
+      }
+    },
+    "History": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Historique"
+          }
+        }
+      }
+    },
+    "Keep the last": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conserver les"
+          }
+        }
+      }
+    },
+    "Forget items after": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oublier les éléments après"
+          }
+        }
+      }
+    },
+    "Never": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jamais"
+          }
+        }
+      }
+    },
+    "1 day": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 jour"
+          }
+        }
+      }
+    },
+    "1 week": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 semaine"
+          }
+        }
+      }
+    },
+    "1 month": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 mois"
+          }
+        }
+      }
+    },
+    "Open Clipboard at login": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir Clipboard à la connexion"
+          }
+        }
+      }
+    },
+    "Turn Clipboard on in System Settings › General › Login Items.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activez Clipboard dans Réglages Système › Général › Ouverture automatique."
+          }
+        }
+      }
+    },
+    "Open Login Items": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir les éléments de connexion"
+          }
+        }
+      }
+    },
+    "Clear History": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Effacer l'historique"
+          }
+        }
+      }
+    },
+    "Back up the history to iCloud Drive": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sauvegarder l'historique sur iCloud Drive"
+          }
+        }
+      }
+    },
+    "Pasting": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Collage"
+          }
+        }
+      }
+    },
+    "Clipboard pastes the item you choose into the app you were using.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clipboard colle l'élément choisi dans l'app que vous utilisiez."
+          }
+        }
+      }
+    },
+    "Holding ⌘V and pasting into the app you were using need Accessibility access for Clipboard. Until then, the item you choose is copied: press ⌘V to paste it.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maintenir ⌘V et coller dans l'app que vous utilisiez nécessitent l'accès Accessibilité pour Clipboard. En attendant, l'élément choisi est copié : appuyez sur ⌘V pour le coller."
+          }
+        }
+      }
+    },
+    "Open Accessibility Settings": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ouvrir les réglages d'accessibilité"
+          }
+        }
+      }
+    },
+    "Add App": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajouter une app"
+          }
+        }
+      }
+    },
+    "Choose": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choisir"
+          }
+        }
+      }
+    },
+    "Apps to ignore": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apps à ignorer"
+          }
+        }
+      }
+    },
+    "What is copied in these apps is not kept. Passwords that password managers mark as private are never kept, whatever the app.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ce qui est copié dans ces apps n'est pas conservé. Les mots de passe que les gestionnaires marquent comme privés ne sont jamais conservés, quelle que soit l'app."
+          }
+        }
+      }
+    },
+    "Current profile": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Profil actuel"
+          }
+        }
+      }
+    },
+    "Profile": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Profil"
+          }
+        }
+      }
+    },
+    "Save Current Settings": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistrer les réglages actuels"
+          }
+        }
+      }
+    },
+    "Changes made since loading it are kept in it only when you save.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les modifications apportées depuis le chargement ne sont conservées que si vous enregistrez."
+          }
+        }
+      }
+    },
+    "Your settings aren't saved in a profile yet.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vos réglages ne sont pas encore enregistrés dans un profil."
+          }
+        }
+      }
+    },
+    "New profile": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nouveau profil"
+          }
+        }
+      }
+    },
+    "Name": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nom"
+          }
+        }
+      }
+    },
+    "Work, Home, Presentation": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Travail, Maison, Présentation"
+          }
+        }
+      }
+    },
+    "Keep it on": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conserver sur"
+          }
+        }
+      }
+    },
+    "Create from Current Settings": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Créer depuis les réglages actuels"
+          }
+        }
+      }
+    },
+    "Kept in ~/Library/Application Support/Explorer/Profiles.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conservé dans ~/Library/Application Support/Explorer/Profiles."
+          }
+        }
+      }
+    },
+    "Kept in iCloud Drive › Explorer › Profiles: every Mac on your iCloud account can load it.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conservé dans iCloud Drive › Explorer › Profils : tous les Mac de votre compte iCloud peuvent le charger."
+          }
+        }
+      }
+    },
+    "Profiles": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Profils"
+          }
+        }
+      }
+    },
+    "None yet. A profile holds the settings of Explorer, Clipboard, Viewer and Bindings.": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun pour l'instant. Un profil contient les réglages d'Explorer, Clipboard, Viewer et Bindings."
+          }
+        }
+      }
+    },
+    "Load": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Charger"
+          }
+        }
+      }
+    },
+    "Save Current Settings Here": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistrer les réglages actuels ici"
+          }
+        }
+      }
+    },
+    "Move to iCloud Drive": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Déplacer vers iCloud Drive"
+          }
+        }
+      }
+    },
+    "Move to This Mac": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Déplacer sur ce Mac"
+          }
+        }
+      }
+    },
+    "Move to Trash": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mettre à la corbeille"
+          }
+        }
+      }
+    },
+    "This Mac": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ce Mac"
+          }
+        }
+      }
+    },
+    "Home folder": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dossier maison"
+          }
+        }
+      }
+    },
+    "Desktop": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bureau"
+          }
+        }
+      }
+    },
+    "Documents": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Documents"
+          }
+        }
+      }
+    },
+    "Downloads": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Téléchargements"
+          }
+        }
+      }
+    },
+    "Pictures": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Images"
+          }
+        }
+      }
+    },
+    "Music": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Musique"
+          }
+        }
+      }
+    },
+    "Movies": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Films"
+          }
+        }
+      }
+    },
+    "Applications": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Applications"
+          }
+        }
+      }
+    },
+    "Disks": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Volumes"
+          }
+        }
+      }
+    },
+    "Trash": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Corbeille"
+          }
+        }
+      }
+    },
+    "Bar": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bar"
+          }
+        }
+      }
+    },
+    "Bar replaces the system Dock, hidden with Finder's icon, whose settings come back with the System Dock. Shown while Explorer manages files (General).": {
+      "localizations": {
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bar remplace le Dock système, masqué avec l'icône du Finder, dont les réglages reviennent avec le Dock système. Affiché quand Explorer gère les fichiers (Général)."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

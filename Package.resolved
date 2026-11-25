@@ -1,0 +1,59 @@
+{
+  "pins" : [
+    {
+      "identity" : "suite-bar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/love-suite/suite-bar",
+      "state" : {
+        "revision" : "08e4bbff1152e4455bfeb83b6b6d93cb23ab24c9",
+        "version" : "27.1.0-dev.1"
+      }
+    },
+    {
+      "identity" : "suite-clipboard",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/love-suite/suite-clipboard",
+      "state" : {
+        "revision" : "9a0d5af076903f0fcb6847dea47e9f05f8b5e4b0",
+        "version" : "27.1.0-dev.1"
+      }
+    },
+    {
+      "identity" : "suite-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/love-suite/suite-core",
+      "state" : {
+        "revision" : "1e6a90aa5f34aeec894d0d313fc88dafa14e6265",
+        "version" : "27.1.0-dev.1"
+      }
+    },
+    {
+      "identity" : "suite-desktop",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/love-suite/suite-desktop",
+      "state" : {
+        "revision" : "92c09dbc48c83fe376c5be62cd1c4003bd115f02",
+        "version" : "27.1.0-dev.1"
+      }
+    },
+    {
+      "identity" : "suite-explorer",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/love-suite/suite-explorer",
+      "state" : {
+        "revision" : "884b1879265eb97350e09f65bf1d7b2885a23f5f",
+        "version" : "27.1.0-dev.1"
+      }
+    },
+    {
+      "identity" : "suite-files",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/love-suite/suite-files",
+      "state" : {
+        "revision" : "cb0c5a165155a6ceb75817d9b26c408ed663be0e",
+        "version" : "27.1.0-dev.1"
+      }
+    }
+  ],
+  "version" : 2
+}
